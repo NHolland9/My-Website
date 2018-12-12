@@ -1,0 +1,17 @@
+//  COLORS
+@import "_colors.scss";
+
+
+/*FOOTER STYLES*/
+footer {
+  height: 100px;
+  text-align: center;
+  background-color: $red;
+  color: white;
+  font-family: monospace;
+  font-size: 1.2em;
+}
+
+.copyright {
+  padding-top: 60px;
+}
